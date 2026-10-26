@@ -1,0 +1,11 @@
+Plotted to '/home/daze/KiCadProjects/CB500/CB500/gpio_expander/gerber/gpio_expander-F_Cu.gbr'.
+Plotted to '/home/daze/KiCadProjects/CB500/CB500/gpio_expander/gerber/gpio_expander-B_Cu.gbr'.
+Plotted to '/home/daze/KiCadProjects/CB500/CB500/gpio_expander/gerber/gpio_expander-F_Paste.gbr'.
+Plotted to '/home/daze/KiCadProjects/CB500/CB500/gpio_expander/gerber/gpio_expander-B_Paste.gbr'.
+Plotted to '/home/daze/KiCadProjects/CB500/CB500/gpio_expander/gerber/gpio_expander-F_Silkscreen.gbr'.
+Plotted to '/home/daze/KiCadProjects/CB500/CB500/gpio_expander/gerber/gpio_expander-B_Silkscreen.gbr'.
+Plotted to '/home/daze/KiCadProjects/CB500/CB500/gpio_expander/gerber/gpio_expander-F_Mask.gbr'.
+Plotted to '/home/daze/KiCadProjects/CB500/CB500/gpio_expander/gerber/gpio_expander-B_Mask.gbr'.
+Plotted to '/home/daze/KiCadProjects/CB500/CB500/gpio_expander/gerber/gpio_expander-Edge_Cuts.gbr'.
+Created Gerber job file '/home/daze/KiCadProjects/CB500/CB500/gpio_expander/gerber/gpio_expander-job.gbrjob'.
+Info: Done.
