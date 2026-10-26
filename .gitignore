@@ -6,6 +6,8 @@
 # KiCad 9 moves project backups into a dedicated local directory
 .kicad_backups/
 *-backups/
+_restore*/
+.history/
 
 # --- Temporary, Cache, and Legacy Backup Files ---
 *.bak
